@@ -1,4 +1,5 @@
 #Weather Analysis:
+
 In this project we have randomly selected more than 500 cities between latitude(-90, 90) and longitude (-180, 180) and created a representation model of weather across world cities.
 
 We made series of scatter plots to showcase the following relationships:
